@@ -1,5 +1,6 @@
 Automated-Detection-of-Atrial-Fibrilation-Using-Wavelets
 This Project was Submitted in Partial Fulfillment of the Requirements for the Degree of Bachelor of Technology in Electronics and Communication Engineering at the National Institute of Technology Goa (June 2020)
+
 Collaborators: 
 Harshvardhan Paithane:(Roll No. 16ECE1008)
 Mahima Tendulkar:(Roll No. 16ECE1012)
